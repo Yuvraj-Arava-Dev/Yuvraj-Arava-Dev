@@ -5,12 +5,6 @@
 Azure Cloud & DevOps Engineer with 9+ years of experience designing, automating, and supporting enterprise cloud solutions on Microsoft Azure. Passionate about building scalable cloud platforms, automating infrastructure, and delivering secure, reliable CI/CD pipelines.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AZ--400-Azure%20DevOps%20Engineer%20Expert-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AZ--204-Azure%20Developer%20Associate-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AZ--104-Azure%20Administrator%20Associate-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -21,6 +15,25 @@ Azure Cloud & DevOps Engineer with 9+ years of experience designing, automating,
 - 💻 Strong background in Azure Functions, Azure DevOps, AKS, APIM, and Terraform
 - 🐍 Programming experience with Python, PowerShell, C#, and .NET
 - 📚 Always learning and exploring modern Azure and DevOps technologies
+
+---
+
+<p align="center">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/YuvrajA-9134/44C2B254633B3000?sharingId=1FECD0D9BC946356">
+    <img src="https://img.shields.io/badge/AZ--400-Azure%20DevOps%20Engineer%20Expert-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/YuvrajA-9134/913DA325BC4E1F70?sharingId=1FECD0D9BC946356">
+    <img src="https://img.shields.io/badge/AZ--204-Azure%20Developer%20Associate-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/YuvrajA-9134/EE3D36D39EEF70CC?sharingId=1FECD0D9BC946356">
+    <img src="https://img.shields.io/badge/AZ--104-Azure%20Administrator%20Associate-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  </a>
+</p>
+
+**Certifications**
+- 🏆 [Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)](https://learn.microsoft.com/api/credentials/share/en-us/YuvrajA-9134/44C2B254633B3000?sharingId=1FECD0D9BC946356)
+- 🏆 [Microsoft Certified: Azure Developer Associate (AZ-204)](https://learn.microsoft.com/api/credentials/share/en-us/YuvrajA-9134/913DA325BC4E1F70?sharingId=1FECD0D9BC946356)
+- 🏆 [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/api/credentials/share/en-us/YuvrajA-9134/EE3D36D39EEF70CC?sharingId=1FECD0D9BC946356)
 
 ---
 
@@ -103,15 +116,6 @@ Infrastructure as Code using Terraform, ARM Templates, and Azure PowerShell — 
 
 ### 📦 AKS Deployment Automation
 Container deployment platform using AKS, Docker, and Helm on Azure DevOps, with observability via Azure Monitor, Managed Prometheus, and Managed Grafana.
-
----
-
-## 📜 Certifications
-
-✔ [Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)](https://learn.microsoft.com/api/credentials/share/en-us/YuvrajA-9134/44C2B254633B3000?sharingId=1FECD0D9BC946356)
-✔ [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/api/credentials/share/en-us/YuvrajA-9134/EE3D36D39EEF70CC?sharingId=1FECD0D9BC946356)
-✔ [ Microsoft Certified: Azure Developer Associate (AZ-204)](https://learn.microsoft.com/api/credentials/share/en-us/YuvrajA-9134/913DA325BC4E1F70?sharingId=1FECD0D9BC946356)
-
 
 ---
 
