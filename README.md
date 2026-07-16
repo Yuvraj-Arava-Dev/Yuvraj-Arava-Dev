@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Arava</h1>
-<h3 align="center">Senior Azure Cloud & DevOps Engineer</h3>
+<h3 align="center">Senior Azure Cloud & DevOps Engineer | Automation</h3>
 
 <p align="center">
 Azure Cloud & DevOps Engineer with 9+ years of experience designing, automating, and supporting enterprise cloud solutions on Microsoft Azure. Passionate about building scalable cloud platforms, automating infrastructure, and delivering secure, reliable CI/CD pipelines.
