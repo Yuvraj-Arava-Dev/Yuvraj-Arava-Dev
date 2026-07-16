@@ -108,9 +108,10 @@ Container deployment platform using AKS, Docker, and Helm on Azure DevOps, with 
 
 ## 📜 Certifications
 
-✔ Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)
-✔ Microsoft Certified: Azure Developer Associate (AZ-204)
-✔ Microsoft Certified: Azure Administrator Associate (AZ-104)
+✔ [Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)](https://learn.microsoft.com/api/credentials/share/en-us/YuvrajA-9134/44C2B254633B3000?sharingId=1FECD0D9BC946356)
+✔ [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/api/credentials/share/en-us/YuvrajA-9134/EE3D36D39EEF70CC?sharingId=1FECD0D9BC946356)
+✔ [ Microsoft Certified: Azure Developer Associate (AZ-204)](https://learn.microsoft.com/api/credentials/share/en-us/YuvrajA-9134/913DA325BC4E1F70?sharingId=1FECD0D9BC946356)
+
 
 ---
 
