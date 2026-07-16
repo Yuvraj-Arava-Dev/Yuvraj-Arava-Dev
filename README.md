@@ -161,7 +161,7 @@ Container deployment platform using:
 ## 🤝 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/yuvraj-a
-- GitHub: https://github.com/Arava-Yuvraj
+- GitHub: [https://github.com/Arava-Yuvraj](https://github.com/Yuvraj-Arava-Dev)
 
 ---
 
