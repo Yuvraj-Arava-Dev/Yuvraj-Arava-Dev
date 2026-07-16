@@ -161,7 +161,7 @@ Platform Engineering · GitOps · Azure Landing Zones · Kubernetes Best Practic
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj-Arava-Dev&show_icons=true&theme=default" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=Yuvraj-Arava-Dev&show_icons=true&theme=default](https://github-readme-stats-nine-rho.vercel.app/api?username=Yuvraj-Arava-Dev&show_icons=true&theme=default)" />
 </p>
 
 <p>
